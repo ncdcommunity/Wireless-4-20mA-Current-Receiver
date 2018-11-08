@@ -7,8 +7,7 @@ IoT Long Range Wireless 4-20mA Current Receiver can be found over here https://s
 Gettings started guide can be found here. this guide is true for multiple Analog input products
 https://ncd.io/long-range-iot-wireless-analog-to-digital-converter-getting-started/ 
 
-Labview Driver for ncd.io wireless 2 Channel Analog To Digital Converter
-
+Labview Driver for ncd.io wireless 1 Channel 4-20mA Receiver
 
 
 To use this Labview Utility You will need a Wireless to USB router, whihc can be found over here https://store.ncd.io/product/900hp-s3b-long-range-wireless-mesh-modem-with-usb-interface/
